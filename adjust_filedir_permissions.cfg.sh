@@ -10,8 +10,11 @@ DOCUMENT_ROOT='/var/www/'
 # SERVER_NAME="${HOSTNAME}";
 
 DIRECTORY_ARRAY=();
-DIRECTORY_ARRAY[0]='www.preworn.com';
-DIRECTORY_ARRAY[1]='staging.preworn.com';
+DIRECTORY_ARRAY[0]='builds';
+DIRECTORY_ARRAY[1]='configs';
+DIRECTORY_ARRAY[2]='content';
+DIRECTORY_ARRAY[3]='staging.preworn.com';
+DIRECTORY_ARRAY[4]='www.preworn.com';
 
 CHMOD_DIR='0775'
 CHMOD_FILE='0664'
