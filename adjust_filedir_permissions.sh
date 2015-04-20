@@ -2,7 +2,7 @@
 
 ##########################################################################################
 #
-# Adjust Apple FileDir Permissions (adjust_apple_filedir_permissions.sh) (c) by Jack Szwergold
+# Adjust FileDir Permissions (adjust_apple_filedir_permissions.sh) (c) by Jack Szwergold
 #
 # Adjust FileDir Permissions is licensed under a
 # Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
