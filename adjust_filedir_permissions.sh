@@ -10,6 +10,9 @@
 # You should have received a copy of the license along with this
 # work. If not, see <http://creativecommons.org/licenses/by-nc-sa/4.0/>. 
 #
+# w: http://www.preworn.com
+# e: me@preworn.com
+#
 # Created: 2014-07-28, js
 # Version: 2014-07-28, js: creation
 #          2014-09-23, js: development
