@@ -31,7 +31,7 @@ PID_FILE="${LOCK_DIR}"'/'"${LOCK_NAME}"'.pid'
 # Set the config file.
 CONFIG_FILE="./adjust_filedir_permissions.cfg.sh"
 
-# Checks if the base secript directory exists.
+# Checks if the base script directory exists.
 if [ -f "${CONFIG_FILE}" ]; then
   source "${CONFIG_FILE}"
 else
